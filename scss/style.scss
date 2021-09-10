@@ -45,7 +45,12 @@
 #visual {
     width: 100%;
     height: calc(100vh - 101px);
-    background: lightcyan;
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 10vw;
 }
 
 #content {
